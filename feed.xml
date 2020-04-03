@@ -3,7 +3,7 @@
     <title>TURKLEGAL RESOURCES</title>
     <link href="https://kainat77.github.io/deneme/feed.xml" rel="self" />
     <link href="https://kainat77.github.io/deneme" />
-    <updated>2020-04-04T01:42:02+03:00</updated>
+    <updated>2020-04-04T01:46:28+03:00</updated>
     <author>
         <name>Oktay Simsek</name>
     </author>
@@ -17,15 +17,144 @@
         <link href="https://kainat77.github.io/deneme/dnm.html"/>
         <id>https://kainat77.github.io/deneme/dnm.html</id>
 
-        <updated>2020-03-30T11:54:38+03:00</updated>
+        <updated>2020-04-04T01:46:23+03:00</updated>
             <summary>
                 <![CDATA[
-                    dnm
+                     Patentler Yenilemeler Alan Adları Markalar Sicil Kayıt İşlemleri Bitki Türleri Tasarımlar Gümrük KorumasıŞirketimizTürk Patent ve Marka Vekillerimizle fikri ve sınaî haklara yönelik vekillik ve danışmanlık hizmetleri sunuyoruz. Yerel ve küresel buluşçuların, tasarımcıların ve yenilikçilerin buluşlarını, markalarını ve tasarımlarını Türkiye’de ve yurtdışında korumalarına yardımcı oluyoruz.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                dnm
+                <div class="container">
+<div class="top-section">
+<div class="container">
+<div class="row">
+<div class="col-sm-4  col-xs-12"><a href="patentler.html"> <img src="images/patent.png" alt="patent icon"></a>
+<h2 id="mcetoc_1e513gtgm3">Patentler</h2>
+</div>
+<div class="col-sm-4 col-xs-12"><a href="yenilemeler.html"> <img src="images/renewals.png" alt="renewal icon"></a>
+<h2 id="mcetoc_1e513gtgm4">Yenilemeler</h2>
+</div>
+<div class="col-sm-4 col-xs-12"><a href="alan-adlari.html"> <img src="images/domain.png" alt="domain name icon"></a>
+<h2 id="mcetoc_1e513gtgm5">Alan Adları</h2>
+</div>
+</div>
+<div class="row">
+<div class="col-sm-4 col-xs-12"><a href="markalar.html"> <img src="images/trademark.png" alt="trademark icon"></a>
+<h2 id="mcetoc_1e513gtgm6">Markalar</h2>
+</div>
+<div class="col-sm-4 col-xs-12"><a href="sicil-kayit-islemleri.html"> <img src="images/recordals.png" alt="recordals icon"></a>
+<h2 id="mcetoc_1e513gtgm7">Sicil Kayıt İşlemleri</h2>
+</div>
+<div class="col-sm-4 col-xs-12"><a href="bitki-turleri.html"> <img src="images/plant.png" alt="plant varieties icon"></a>
+<h2 id="mcetoc_1e513gtgm8">Bitki Türleri</h2>
+</div>
+</div>
+<div class="row">
+<div class="col-sm-4 col-xs-12"><a href="tasarimlar.html"> <img src="images/design.png" alt="design icon"></a>
+<h2 id="mcetoc_1e513gtgm9">Tasarımlar</h2>
+</div>
+<div class="col-sm-6 col-xs-12"><a href="gumruk-korumasi.html"> <img src="images/customsprotection.png" alt="customs protection icon"></a>
+<h2 id="mcetoc_1e513gtgma">Gümrük Koruması</h2>
+</div>
+</div>
+</div>
+</div>
+<div class="about-home">
+<div class="container">
+<div class="row">
+<div class="col-sm-4">
+<div class="about-home-word-left"><img src="images/favicon.png" alt="turklegal favicon" width="100px;">
+<h2 id="mcetoc_1e513gtgmb">Şirketimiz</h2>
+</div>
+</div>
+<div class="col-sm-8">
+<div class="about-home-word-right">
+<p>Türk Patent ve Marka Vekillerimizle fikri ve sınaî haklara yönelik vekillik ve danışmanlık hizmetleri sunuyoruz. Yerel ve küresel buluşçuların, tasarımcıların ve yenilikçilerin buluşlarını, markalarını ve tasarımlarını Türkiye’de ve yurtdışında korumalarına yardımcı oluyoruz.</p>
+<br> <br> <br> <a class="btn-more" href="hakkimizda.html">Devamı</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="teams">
+<h2 id="mcetoc_1e513gtgmc">YÖNETİM EKİBİMİZ</h2>
+<div class="container">
+<div class="row">
+<div class="col-sm-4">
+<div class="card">
+<div class="card-img"> </div>
+<div class="card-text">
+<p>Oktay Şimşek</p>
+<p>Patent ve Marka Vekili</p>
+<a href="#" class="staff-email"></a>
+<div class="card-social-icon"><a href="https://twitter.com/kty_smsk" target="_blank" rel="noopener noreferrer"> <img src="images/twittercard.png" alt="twitter icon"> </a> <a href="https://www.linkedin.com/in/oktaysimsek/" target="_blank" rel="noopener noreferrer"> <img src="images/linkedincard.png" alt="linkedin icon"></a></div>
+</div>
+</div>
+</div>
+<div class="col-sm-4">
+<div class="card">
+<div class="card-img1"> </div>
+<div class="card-text">
+<p>Mete Mercan</p>
+<p>Patent ve Marka Vekili</p>
+<a href="#" class="staff-email"></a>
+<div class="card-social-icon"><img src="images/twittercard.png" alt="twitter icon"> <img src="images/linkedincard.png" alt="linkedin icon"></div>
+</div>
+</div>
+</div>
+<div class="col-sm-4">
+<div class="card">
+<div class="card-img2"> </div>
+<div class="card-text">
+<p>Tahnur Yazıcı</p>
+<p>Patent Vekili</p>
+<a href="#" class="staff-email"></a>
+<div class="card-social-icon"><img src="images/twittercard.png" alt="twitter icon"> <img src="images/linkedincard.png" alt="linkedin icon"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="rss-feed-container">
+<div class="container">
+<div class="row">
+<div class="col-sm-12">
+<div class="feed-stream">
+<script src="http://feeds.feedburner.com/Turklegal?format=sigpro" type="text/javascript"></script>
+<noscript>
+                <p>Subscribe to RSS headline updates from: <a href="http://feeds.feedburner.com/Turklegal"></a><br/>Powered by FeedBurner</p>
+              </noscript></div>
+</div>
+</div>
+<div class="read-blog"><a href="../../../../../blog/index.html" class="read-on-button"> DEVAMI</a></div>
+</div>
+</div>
+<div class="blog-subscription">
+<div class="container">
+<div class="row">
+<div class="col-sm-12">
+<div class="subscription-area">
+<h5 id="mcetoc_1e513gtgmd" style="margin-top: 40px; width: 100%; text-align: center;">BLOG YAZILARIMIZ EMAIL ADRESİNİZE GELSİN</h5>
+<!-- Begin Mailchimp Signup Form --> <!-- Not: Publii blog sidebar newsletter - bülten stillerine etki etmemesi için bu form alanında in-line stil kullanılması gerekmiştir... -->
+<div id="mc_embed_signup" style="border-radius: 4px; margin: auto; margin-bottom: 50px;"><form id="mc-embedded-subscribe-form" class="validate" action="https://gmail.us3.list-manage.com/subscribe/post?u=86228b675aa7d9706a7719312&amp;id=227bafe8c7" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank">
+<div id="mc_embed_signup_scroll"><label for="mce-EMAIL"></label> <input id="mce-EMAIL" class="email" style="height: 45px !important; font-family: 'Raleway' sans-serif !important; border: 1px solid #abb0b245 !important; max-width: 450px !important;" name="EMAIL" required="" type="email" value="" placeholder="Email adresiniz..."> <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+<div style="position: absolute; left: -5000px;"><input tabindex="-1" name="b_86228b675aa7d9706a7719312_227bafe8c7" type="text" value=""></div>
+<div class="clear"><input id="mc-embedded-subscribe" class="button" style="height: 45px !important; width: 125px !important; background-color: #00d6e4 !important;" name="subscribe" type="submit" value="KAYIT"></div>
+</div>
+</form></div>
+<!--End mc_embed_signup--></div>
+</div>
+</div>
+</div>
+</div>
+<div class="section-bottom-bg">
+<div class="overlay"> </div>
+<div class="section-bottom-word">
+<p>FİKİRLERİNİZE DEĞER KATARAK ZORLU REKABET KOŞULLARINDA SİZLERE DESTEK OLUYORUZ...</p>
+</div>
+</div>
+</div>
             ]]>
         </content>
     </entry>
