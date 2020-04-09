@@ -3,7 +3,7 @@
     <title>LETSTRADEMARK</title>
     <link href="https://kainat77.github.io/deneme/feed.xml" rel="self" />
     <link href="https://kainat77.github.io/deneme" />
-    <updated>2020-04-09T23:13:34+03:00</updated>
+    <updated>2020-04-09T23:17:51+03:00</updated>
     <author>
         <name>Oktay Simsek</name>
     </author>
@@ -17,8 +17,32 @@
         <link href="https://kainat77.github.io/deneme/dnm.html"/>
         <id>https://kainat77.github.io/deneme/dnm.html</id>
 
-        <updated>2020-04-09T23:10:05+03:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2020-04-09T23:17:48+03:00</updated>
+            <summary>
+                <![CDATA[
+                    TRADEMARK APPLICATIONTRADEMARK REGISTRATIOM200 EUR175 EUR 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <table style="width: 668px; height: 367px;">
+<tbody>
+<tr style="height: 41.0625px;">
+<td class="align-center" style="width: 334px; height: 41.0625px;"><strong>TRADEMARK APPLICATION</strong></td>
+<td class="align-center" style="width: 333px; height: 41.0625px;"><strong>TRADEMARK REGISTRATIOM</strong></td>
+</tr>
+<tr style="height: 183px;">
+<td style="width: 334px; height: 183px;">
+<h2 id="mcetoc_1e5g9d2nl0" class="align-center">200 EUR</h2>
+</td>
+<td style="width: 333px; height: 183px;">
+<h2 id="mcetoc_1e5g9d2nl1" class="align-center">175 EUR</h2>
+</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+            ]]>
+        </content>
     </entry>
 </feed>
